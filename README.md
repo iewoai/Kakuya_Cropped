@@ -1,0 +1,2 @@
+# Kakuya_Cropped
+基于AlexeyAB_DarkNet的目标检测python脚本，实现剪下《辉夜大小姐想让我告白》每位角色的部分
